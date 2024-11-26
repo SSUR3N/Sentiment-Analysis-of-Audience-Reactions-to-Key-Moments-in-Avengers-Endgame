@@ -17,3 +17,6 @@ Enhance narrative elements which strike a chord with viewers. Future projects sh
 
 Ultimately, this study could contribute to creating movies that aren’t just entertaining but also deeply impactful, leaving a lasting impression on moviegoers. I believe this project is not only fun and engaging but also offers a practical application in shaping the future of cinema. I’m excited to get the dataset reviewed and approved to move forward with the analysis! 
 
+
+
+# THE TASK FOR THIS WEEK IS DATA CLEANING AND ALSO DATA LABELING
