@@ -20,3 +20,39 @@ Ultimately, this study could contribute to creating movies that aren’t just en
 
 
 # THE TASK FOR THIS WEEK IS DATA CLEANING AND ALSO DATA LABELING
+
+WEEK 1
+
+Basic intriduction of the subject
+
+WEEK 2
+
+Finding our dataset. Find out what really intrest us. Any topic also can. 
+
+WEEK 3 
+
+Dataset got approved. Do dataset cleaning and also dataset labeling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
