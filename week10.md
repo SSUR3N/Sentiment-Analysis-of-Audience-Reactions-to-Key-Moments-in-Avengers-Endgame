@@ -1,1 +1,5 @@
+# Week 10 Report: Rerunning all the test and code
 
+Approaches Deep Learning Comparing Visualisation Models Sentiment Applying And, In My Project Uses Coding I Have Finished Almost All Tasks And In Its Final Stage Completed. However, There's Still One Step Remains Which Includes Rerunning The It's Tests And Assessing The Output Results Accuracy Final Validation Work.
+
+As A Reminder I Will Be Focusing On Tasks Ensuring Result Consistency And Correctness. All Of The Tasks I Have Set Have Already Started Working On. This Way I Make Sure All Parts Of The Code Are Functioning Sentiment Analysis Models Implemented, TextBlob, VADER, BERT, Flair And The Latest Versions Of Hugging Face Are On The Dataset I Am Working On. Various Models’ Understandings Of Sentiments Differ So It's Vital To Make Sure The Outputs Are As Expected And No Mistakes Have Occurred During The Execution. I Also Started To Analyse Even More Edge Cases For Example Tweets That Include Sarcasm, Unlike Ordinary Tweets That Are Quite Simple Mixed Emotion Or Simply Emotional Tweets With Otherwise Open To Interpretation Sentences.
